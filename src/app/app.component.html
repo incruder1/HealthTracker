@@ -1,0 +1,18 @@
+<div class="w-full h-full" style="margin-top: 20px;">
+  <mat-tab-group>
+    <mat-tab label="Workout List">
+      <div class="flex-col space-x-10 pt-6">
+        <app-add-user
+          (userAdded)="
+            usersComponent.loadUsers(); progressChartComponent.loadUsers()
+          "></app-add-user>
+        <app-users #usersComponent></app-users>
+      </div>
+    </mat-tab>
+    <mat-tab label="Workout Progress">
+      <div class="flex-col space-x-10 pt-6">
+     <app-progress-chart #progressChartComponent></app-progress-chart>
+      </div>
+    </mat-tab>
+  </mat-tab-group>
+</div>
