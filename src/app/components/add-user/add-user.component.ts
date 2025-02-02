@@ -53,9 +53,6 @@ export const myCustomTooltipDefaults: MatTooltipDefaultOptions = {
     MatIconModule,
     MatTooltipModule,
     MatDialogTitle,
-    MatDialogContent,
-    MatDialogActions,
-    MatDialogClose,
   ],
   templateUrl: './add-user.component.html',
   providers: [

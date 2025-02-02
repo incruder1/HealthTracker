@@ -23,3 +23,8 @@ Welcome to the Health Challenge Tracker, a dynamic single-page application (SPA)
 ![s2](https://github.com/user-attachments/assets/fb72076f-93e3-4806-988d-7d93227097bb)
 ![s1](https://github.com/user-attachments/assets/c17bc092-d044-4522-afc6-63470111be53)
 
+## Coverage:- 
+![Snap-1](https://github.com/user-attachments/assets/9856b56b-02ce-4e35-bdff-c9a249f4a40d)
+
+
+
